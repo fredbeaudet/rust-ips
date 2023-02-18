@@ -1,0 +1,1 @@
+cargo run -- apply data/SMB1_Castle.ips data/SMB1.nes data/SMB1_Castle.nes
